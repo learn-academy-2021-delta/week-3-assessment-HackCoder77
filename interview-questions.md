@@ -42,9 +42,9 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 5. What is yarn? What file(s) are modified in a React application when you run yarn?
 
-  Your answer: Yarn is a testing application for your code.  Files aren't modified but they are ran for testing. So the app.js file is run.
+  Your answer: Yarn is a testing application for your code.  Files aren't modified but they are ran for testing. So the app.js file is ran.
 
-  Researched answer: package managers that help to manage a project's dependencies
+  Researched answer: package managers that help to manage a project's dependencies. node modules, yarn lock, package.json.
 
 
 
